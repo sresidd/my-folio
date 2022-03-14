@@ -8,7 +8,7 @@
     align-items: center;
     margin: 6px;
     border-radius: 8px;
-    background:linear-gradient(
+    /* background:linear-gradient(
         to right top, 
         #fe66ff, 
         #ff54da, 
@@ -24,7 +24,7 @@
         #ffe675
     );
     background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent; */
 }
 
 .skill-icon{
