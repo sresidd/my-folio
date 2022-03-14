@@ -6,6 +6,7 @@ html{
     flex-direction:column ;
     width: 70%;
     margin: auto;
+    background-color: #404040;
 }
 
 @media only screen and (max-width: 1024px){
