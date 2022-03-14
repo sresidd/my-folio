@@ -1,5 +1,5 @@
 .mobile{
-    background-color:#262626;
+    background-color: rgb(247, 247, 247);
     height: 100vh;
     width: 60vw;
     position: absolute;
@@ -10,13 +10,28 @@
     flex-direction: column;
 }
 .close-icon{
-    color: wheat;
+    background:linear-gradient(
+        to right top, 
+        #fe66ff, 
+        #ff54da, 
+        #ff48b7, 
+        #ff4496,
+        #ff4678, 
+        #ff5867, 
+        #ff6a58,
+        #ff7d4b,
+        #ff994c, 
+        #ffb353, 
+        #ffcd61,
+        #ffe675
+    );
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
     display: flex;
     justify-content: flex-end;
     font-size: 24px;
 }
 .mobile-options{
-    color: wheat;
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -26,14 +41,28 @@
     height: 100%;
 }
 .mobile-option{
-    color: wheat;
     font-size: 24px;
     margin: 12px 0px;
     display: flex;
 }
 .mobile-option a{
-
+    background:linear-gradient(
+        to right top, 
+        #fe66ff, 
+        #ff54da, 
+        #ff48b7, 
+        #ff4496,
+        #ff4678, 
+        #ff5867, 
+        #ff6a58,
+        #ff7d4b,
+        #ff994c, 
+        #ffb353, 
+        #ffcd61,
+        #ffe675
+    );
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
     text-decoration: none;
-    color: wheat;
     display: flex;
 }
