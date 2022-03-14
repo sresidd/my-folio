@@ -8,11 +8,11 @@ export const SkillsData = [
             },
             {
                 name:"C-Sharp" ,
-                icon:<i class="devicon-csharp-line"></i>
+                icon:<i class="devicon-csharp-line colored"></i>
             },
             {
                 name:"Photoshop" ,
-                icon:<i class="devicon-photoshop-line"></i>
+                icon:<i class="devicon-photoshop-plain colored"></i>
             }
         ]
     },

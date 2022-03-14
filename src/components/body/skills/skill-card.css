@@ -5,26 +5,8 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items:center;
     margin: 6px;
-    border-radius: 8px;
-    /* background:linear-gradient(
-        to right top, 
-        #fe66ff, 
-        #ff54da, 
-        #ff48b7, 
-        #ff4496,
-        #ff4678, 
-        #ff5867, 
-        #ff6a58,
-        #ff7d4b,
-        #ff994c, 
-        #ffb353, 
-        #ffcd61,
-        #ffe675
-    );
-    background-clip: text;
-    -webkit-text-fill-color: transparent; */
 }
 
 .skill-icon{
