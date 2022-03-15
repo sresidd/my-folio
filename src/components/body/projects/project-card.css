@@ -37,7 +37,6 @@
     font-weight: 600;
 }
 .project-tags{
-    color: ;
     display: flex;
     max-width: 60%;
     flex-wrap: wrap;
@@ -80,11 +79,12 @@
         width: 70%;
     }
     .project-card{
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
     .project-info{
         margin-left: 0px;
         margin-top: 12px;
+        margin-bottom: 20px;
     }
     .project-tags{
          max-width: 100%;

@@ -7,7 +7,7 @@ export const SkillsData = [
                 icon: require('../../assets/icons/unity.png')
             },
             {
-                name:"C-Sharp" ,
+                name:"C#" ,
                 icon:require('../../assets/icons/c-sharp.png')
             },
             {
