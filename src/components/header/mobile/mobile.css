@@ -1,5 +1,5 @@
 .mobile{
-    background-color: rgb(247, 247, 247);
+    background-color: rgb(35, 35, 35);
     height: 100vh;
     width: 60vw;
     position: absolute;
@@ -11,19 +11,19 @@
 }
 .close-icon{
     background:linear-gradient(
-        to right top, 
-        #fe66ff, 
-        #ff54da, 
-        #ff48b7, 
-        #ff4496,
-        #ff4678, 
-        #ff5867, 
-        #ff6a58,
-        #ff7d4b,
-        #ff994c, 
-        #ffb353, 
-        #ffcd61,
-        #ffe675
+        to right top,
+        #ffbe66,
+        #ffc362,
+        #ffc85e, 
+        #ffcd5b, 
+        #ffd357, 
+        #ffd858, 
+        #ffde59, 
+        #ffe35b, 
+        #ffea61, 
+        #fff167,
+        #fff76e, 
+        #fffe75
     );
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -47,19 +47,19 @@
 }
 .mobile-option a{
     background:linear-gradient(
-        to right top, 
-        #fe66ff, 
-        #ff54da, 
-        #ff48b7, 
-        #ff4496,
-        #ff4678, 
-        #ff5867, 
-        #ff6a58,
-        #ff7d4b,
-        #ff994c, 
-        #ffb353, 
-        #ffcd61,
-        #ffe675
+        to right top,
+        #ffbe66,
+        #ffc362,
+        #ffc85e, 
+        #ffcd5b, 
+        #ffd357, 
+        #ffd858, 
+        #ffde59, 
+        #ffe35b, 
+        #ffea61, 
+        #fff167,
+        #fff76e, 
+        #fffe75
     );
     background-clip: text;
     -webkit-text-fill-color: transparent;

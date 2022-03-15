@@ -1,18 +1,18 @@
 export const WorkData=[
     {
         company:"Chimpvine",
+        designation:"Intern",
+        dateJoining:"05/09/2021",
+        dateEnd:"25/01/2022",
+        companyLogo:require('../../assets/logo-cv.png'),
+        work:"I worked at chimpvine as an intern for about half a month. I got to learn alot during the internship."
+    },
+    {
+        company:"Chimpvine",
         designation:"Junior Developer",
         dateJoining:"01-02-2022",
         dateEnd:"Present",
         companyLogo:require('../../assets/logo-cv.png'),
-        work:"work discription - orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-    },
-    {
-        company:"SomeOtherCompany",
-        designation:"Junior Developer",
-        dataJoining:"01-02-2022",
-        dateEnd:"Present",
-        companyLogo:require('../../assets/logo-cv.png'),
-        work:"work discription - orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        work:"I am now hired at Chimpvine as a Junior Game Developer. Making Games for children as a medium for education."
     }
 ]

@@ -17,11 +17,14 @@
     align-items: flex-start;
     flex-direction: column;
 }
-
+.company-name{
+    color: #ececec;
+}
 .work-dates{
-    color: grey;
+    color: rgb(121, 121, 121);
 }
 .work-desc{
+    color: #d5d5d5;
     text-align: left;
     display: -webkit-box;
     -webkit-line-clamp: unset;

@@ -26,12 +26,12 @@ export const SocialData=[
     },
     {
         platform:"Telegram",
-        link:"#Telegram",
+        link:"https://t.me/sresidd",
         icon: require('../../assets/icons/telegram.png')
     },
     {
         platform:"Youtube",
-        link:"#Youtube",
+        link:"https://www.youtube.com/channel/UCpVDNBUd4QyZAWpnoLoq6pg",
         icon: require('../../assets/icons/youtube.png')
     }
 ]

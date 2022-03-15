@@ -8,19 +8,40 @@
 }
 .project-photo{
     width: 40%;
+    border-radius: 15px;
 }
 .project-info{
+    color: #d5d5d5;
     margin-right: 24px;
 
 }
 .project-title{
+    background:linear-gradient(
+        to right top,
+        #ffbe66,
+        #ffc362,
+        #ffc85e, 
+        #ffcd5b, 
+        #ffd357, 
+        #ffd858, 
+        #ffde59, 
+        #ffe35b, 
+        #ffea61, 
+        #fff167,
+        #fff76e, 
+        #fffe75
+    );
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-size:20px;
     font-weight: 600;
 }
 .project-tags{
+    color: ;
     display: flex;
     max-width: 60%;
     flex-wrap: wrap;
+    color: black;
 }
 .tag{
     padding: 4px 8px;

@@ -6,7 +6,10 @@ html{
     flex-direction:column ;
     width: 70%;
     margin: auto;
-    /* background-color: #404040; */
+    /* background-color: rgb(23, 23, 23); */
+}
+#root{
+    background-color: rgb(23, 23, 23);
 }
 
 @media only screen and (max-width: 1024px){

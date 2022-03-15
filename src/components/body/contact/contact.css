@@ -4,6 +4,23 @@
     flex: 1;
 }
 .section-title{
+    background:linear-gradient(
+        to right top,
+        #ffbe66,
+        #ffc362,
+        #ffc85e, 
+        #ffcd5b, 
+        #ffd357, 
+        #ffd858, 
+        #ffde59, 
+        #ffe35b, 
+        #ffea61, 
+        #fff167,
+        #fff76e, 
+        #fffe75
+    );
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-size: 32px;
     font-weight: 700;
 }
@@ -19,8 +36,11 @@
     font-size: 20px;
     text-align: center;
 }
+.contact-left-desc{
+    color: #d5d5d5;
+}
 .download{
-    background-color: gold;
+    background-color: #ffee8d;
     padding: 8px 16px;
     font-size: 24px;
     display: flex;

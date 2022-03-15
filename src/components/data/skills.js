@@ -4,32 +4,42 @@ export const SkillsData = [
         list:[
             {
                 name: "Unity",
-                icon: <i class="devicon-unity-original"></i>
+                icon: require('../../assets/icons/unity.png')
             },
             {
                 name:"C-Sharp" ,
-                icon:<i class="devicon-csharp-line colored"></i>
+                icon:require('../../assets/icons/c-sharp.png')
             },
             {
-                name:"Photoshop" ,
-                icon:<i class="devicon-photoshop-plain colored"></i>
+               name:"Unreal",
+               icon:require('../../assets/icons/unreal.png') 
+            },
+            {
+                name:"C++",
+                icon:require('../../assets/icons/c++.png')
+            },
+            {
+                name:"Godot",
+                icon:require('../../assets/icons/godot.png')
             }
         ]
     },
     {
-        type:"Others",
+        type:"Other",
         list:[
             {
-                name: "Unity",
-                icon: <i class="devicon-unity-original"></i>
+                name: "Photoshop",
+                icon:require('../../assets/icons/photoshop.png')
+
             },
             {
-                name:"C-Sharp" ,
-                icon:<i class="devicon-csharp-line"></i>
+                name: "Aseprite",
+                icon:require('../../assets/icons/aseprite.png')
+
             },
             {
-                name:"Photoshop" ,
-                icon:<i class="devicon-photoshop-line"></i>
+                name:"Blender" ,
+                icon:require('../../assets/icons/blender.png')
             }
         ]
     }

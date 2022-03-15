@@ -12,7 +12,7 @@ function Contact() {
       </label>
       <div className='contact-container'>
         <div className='contact-left'>
-          <p>
+          <p className='contact-left-desc'>
             Want to get in touch? Contact me on any of the platform
           </p>
           <SocialContact />
