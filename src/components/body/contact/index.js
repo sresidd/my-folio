@@ -18,9 +18,9 @@ function Contact() {
           <SocialContact />
         </div>
         <div className='download'>
-          <a download href={require('../../../assets/Template-Resume.pdf')}>
+          <a href='https://rxresu.me/r/csybK2SJ'>
           <i class="fi fi-rr-download"></i>
-            Download Resume
+            View Resume
           </a>
         </div>
       </div>
