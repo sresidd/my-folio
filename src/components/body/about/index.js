@@ -4,13 +4,13 @@ import './about.css'
 
 function About() {
   return (
-    <div className='aobut'>
+    <div className='about'>
       <div className='about-top'>
         <div className='about-info'>
           Hello, I'm
           <br />
-          <span className='info-name'>Siddhartha Shrestha.</span>
-          <br />Game Developer. 
+          <span className='info-name'>SIDDHARTHA SHRESHTA.</span>
+          <br />Game Developer | Unity Developer | VR Developer. 
           <br />Game Designer. 
           <br />Digital Artist.
         </div>

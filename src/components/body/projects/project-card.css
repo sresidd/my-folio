@@ -43,11 +43,9 @@
     color: black;
 }
 .tag{
-    padding: 4px 8px;
-    background-color: rgb(255, 238, 141);
-    border-radius: 4px;
-    margin-right:6px;
-    margin-bottom: 4px;
+    width: 7%;
+    border-radius: 15px;
+    padding: 8px;
 }
 .project-links a{
     text-decoration: none;
@@ -74,7 +72,7 @@
     margin-right: 4px;
 }
 
-@media only screen and (max-width:720px){
+@media only screen and (max-width:900px){
     .project-photo{
         width: 70%;
     }
@@ -87,6 +85,6 @@
         margin-bottom: 20px;
     }
     .project-tags{
-         max-width: 100%;
+        max-width: 100%;
     }
 }

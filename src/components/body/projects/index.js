@@ -15,7 +15,7 @@ function Projects() {
           return <ProjectCard project={project}/>
         })}
       </div>
-      <label className='section-title'> Digital Works </label>
+      <label className='section-title'>Digital Works</label>
 
     </div>
   )

@@ -19,8 +19,8 @@ function Contact() {
         </div>
         <div className='download'>
           <a href='https://rxresu.me/r/csybK2SJ'>
-          <i class="fi fi-rr-download"></i>
-            View Resume
+          <i class="fi fi-rr-download"> </i>
+            Resume
           </a>
         </div>
       </div>

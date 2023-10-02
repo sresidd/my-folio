@@ -20,18 +20,8 @@ export const SocialData=[
         icon: require('../../assets/icons/github.png')
     },
     {
-        platform:"Spotify",
-        link:"#Spotify",
-        icon: require('../../assets/icons/spotify.png')
-    },
-    {
         platform:"Telegram",
         link:"https://t.me/sresidd",
         icon: require('../../assets/icons/telegram.png')
-    },
-    {
-        platform:"Youtube",
-        link:"https://www.youtube.com/channel/UCpVDNBUd4QyZAWpnoLoq6pg",
-        icon: require('../../assets/icons/youtube.png')
     }
 ]

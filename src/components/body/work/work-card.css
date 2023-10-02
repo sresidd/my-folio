@@ -33,7 +33,7 @@
     text-overflow: ellipsis;
     max-width: 80%;
 }
-@media only screen and (max-width: 720px){
+@media only screen and (max-width: 900px){
     .work-card{
         width: 100%;
     }
